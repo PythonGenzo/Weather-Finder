@@ -11,9 +11,9 @@ By giving city and country details, user can find the temperature, humidity and 
 
 **Front page**
 
-<img src="https://github.com/Monishadhanasekar/Weather-finder/blob/main/screenshots/front.png" title="Front page"> 
+<img src="https://github.com/PythonGenzo/Weather-Finder/blob/main/screenshots/Weather1.png" title="Front page"> 
 
 **Weather finder page** 
 
-<img src="https://github.com/Monishadhanasekar/Weather-finder/blob/main/screenshots/finder.png" title="Weather finder page">
+<img src="https://github.com/PythonGenzo/Weather-Finder/blob/main/screenshots/Weather2.png" title="Weather finder page">
 
